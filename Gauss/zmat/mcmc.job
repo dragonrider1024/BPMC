@@ -1,0 +1,26 @@
+#!/bin/bash
+#
+#PBS  -r n -l walltime=72:00:00,mem=4gb,nodes=1:ppn=4
+
+trap "\cp --backup=t -p mcmc.log g09.com $PBS_O_WORKDIR;\rm $PBS_O_WORKDIR/$PBS_JOBID" 0 1 2 3 9 15
+
+export g09root=/usr/local/g09_B01
+. $g09root/g09/bsd/g09.profile
+#. ~/.bashrc
+cd $TMPDIR
+
+echo -P- $PBS_NP > Default.Route 
+echo -M- 500000000 >> Default.Route 
+
+module purge 
+
+ln -s /work_$HOST/$PBS_JOBID $PBS_O_WORKDIR/$PBS_JOBID 
+
+cp $PBS_O_WORKDIR/*.bash .
+cp $PBS_O_WORKDIR/*.inp .
+
+~/dicarob_amine/mcmc/zmat/mcmc.exe>mcmc.log
+
+env
+
+exit

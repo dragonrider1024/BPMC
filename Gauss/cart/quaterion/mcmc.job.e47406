@@ -1,0 +1,17 @@
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 7, file /work/47406.medusa.chem.tamu.edu/eng
+Image              PC                Routine            Line        Source             
+mcmc.exe           40000000000DDFD0  Unknown               Unknown  Unknown
+mcmc.exe           40000000000DBA20  Unknown               Unknown  Unknown
+mcmc.exe           40000000000548D0  Unknown               Unknown  Unknown
+mcmc.exe           4000000000012850  Unknown               Unknown  Unknown
+mcmc.exe           40000000000117E0  Unknown               Unknown  Unknown
+mcmc.exe           400000000001EA10  Unknown               Unknown  Unknown
+mcmc.exe           4000000000005120  Unknown               Unknown  Unknown
+mcmc.exe           4000000000006330  Unknown               Unknown  Unknown
+mcmc.exe           40000000000061C0  Unknown               Unknown  Unknown
+mcmc.exe           4000000000002E10  Unknown               Unknown  Unknown
+libc.so.6.1        2000000000427630  Unknown               Unknown  Unknown
+mcmc.exe           4000000000002C40  Unknown               Unknown  Unknown
+cp: cannot stat `g09_*.log': No such file or directory
+cp: cannot stat `h.his': No such file or directory

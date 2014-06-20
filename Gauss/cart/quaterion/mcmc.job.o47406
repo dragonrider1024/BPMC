@@ -1,0 +1,149 @@
+
+Prologue Args:
+Job ID: 47406.medusa.chem.tamu.edu
+User ID: xuwen
+Group ID: user
+Job Name: mcmc.job
+Requested Resources: mem=4gb,neednodes=1:ppn=4,nodes=1:ppn=4,walltime=32:00:00
+Queue: m_p8
+Job account: 
+--------------------------
+Job started on: Fri Oct  5 10:41:10 CDT 2012
+--------------------------
+LESSKEY=/etc/lesskey.bin
+MODULE_VERSION_STACK=3.1.6
+MANPATH=/home/xuwen/man:/usr/local/man:/usr/share/man:/usr/X11R6/man:/opt/gnome/share/man
+INFODIR=/usr/local/info:/usr/share/info:/usr/info
+NNTPSERVER=news
+_DSM_BARRIER=SHM
+HOSTNAME=euryale
+GAUSS_ARCHDIR=/usr/local/g09_B01/g09/arch
+PBS_VERSION=TORQUE-3.0.2
+XKEYSYMDB=/usr/X11R6/lib/X11/XKeysymDB
+GNOME2_PATH=/usr/local:/opt/gnome:/usr
+_MODULESBEGINENV_=/home/xuwen/.modulesbeginenv
+SHELL=/bin/bash
+HOST=euryale
+HISTSIZE=1000
+PROFILEREAD=true
+PBS_JOBNAME=mcmc.job
+TMPDIR=/work/47406.medusa.chem.tamu.edu
+CPMD_PP_LIBRARY_PATH=/home/xuwen/CPMD-3.13.2/PPLIBNEW
+GNOME_PATH=:/opt/gnome:/usr
+PGPLOT_FONT=/home/xuwen/pgplot
+PBS_ENVIRONMENT=PBS_BATCH
+MORE=-sl
+OLDPWD=/home/xuwen
+QTDIR=/usr/lib/qt3
+PBS_O_WORKDIR=/home/xuwen/dicarob_amine/mcmc
+USER=xuwen
+PBS_TASKNUM=1
+JRE_HOME=/usr/lib/jvm/java/jre
+GROFF_NO_SGR=yes
+LS_COLORS=
+LD_LIBRARY_PATH=/usr/local/g09_B01/g09/bsd:/usr/local/g09_B01/g09/local:/usr/local/g09_B01/g09/extras:/usr/local/g09_B01/g09:/home/xuwen/lib:/usr/local/g09/g09/bsd:/usr/local/g09/g09/local:/usr/local/g09/g09/extras:/usr/local/g09/g09:/usr/local/gv_4_12/lib:/usr/local/g09/gv/lib
+g09root=/usr/local/g09_B01
+PBS_O_HOME=/home/xuwen
+XNLSPATH=/usr/X11R6/lib/X11/nls
+ENV=/etc/bash.bashrc
+HOSTTYPE=ia64
+PBS_MOMPORT=15003
+PBS_GPUFILE=/var/spool/torque/aux//47406.medusa.chem.tamu.edugpu
+FROM_HEADER=
+G09BASIS=/usr/local/g09_B01/g09/basis
+PAGER=less
+CSHEDIT=emacs
+AMPAC_DIR=/usr/local/Ampac
+PBS_O_QUEUE=default
+XDG_CONFIG_DIRS=/usr/local/etc/xdg/:/etc/xdg/:/etc/opt/gnome/xdg/
+MINICOM=-c on
+SETMOD=YES
+PATH=.:/home/xuwen/wham/wham:/home/xuwen/bin:/usr/local/bin:/usr/bin:/usr/X11R6/bin:/bin:/usr/games:/opt/gnome/bin:/opt/kde3/bin:/usr/lib/mit/bin:/usr/lib/mit/sbin:/usr/lib/qt3/bin:/usr/pbs/bin:/usr/local/g09/g09/bsd:/usr/local/g09/g09/local:/usr/local/g09/g09/extras:/usr/local/g09/g09:/usr/local/AMBER/amber11//exe:.:/usr/local/Ampac/exec:/usr/local/g09_B01/g09/bsd:/usr/local/g09_B01/g09/local:/usr/local/g09_B01/g09/extras:/usr/local/g09_B01/g09:AMPAC_DIR
+PBS_O_LOGNAME=xuwen
+MAIL=/var/spool/mail/xuwen
+GNOMEDIR=/opt/gnome
+MODULE_VERSION=3.1.6
+MPI_DSM_DISTRIBUTE=1
+PBS_O_LANG=en_US.UTF-8
+CPU=ia64
+PBS_JOBCOOKIE=B85112BFA5F9FC97DDA28D601FE52F20
+JAVA_BINDIR=/usr/lib/jvm/java/bin
+PWD=/work/47406.medusa.chem.tamu.edu
+INPUTRC=/home/xuwen/.inputrc
+JAVA_HOME=/usr/lib/jvm/java
+LANG=en_US.UTF-8
+PBS_NODENUM=0
+MODULEPATH=/usr/share/modules:/usr/share/modules/modulefiles
+PYTHONSTARTUP=/etc/pythonstart
+PBS_NUM_NODES=1
+SDK_HOME=/usr/lib/jvm/java
+GAUSS_EXEDIR=/usr/local/g09_B01/g09/bsd:/usr/local/g09_B01/g09/local:/usr/local/g09_B01/g09/extras:/usr/local/g09_B01/g09
+PBS_O_SHELL=/bin/bash
+PBS_SERVER=medusa
+PBS_JOBID=47406.medusa.chem.tamu.edu
+ENVIRONMENT=BATCH
+TEXINPUTS=:/home/xuwen/.TeX:/usr/share/doc/.TeX:/usr/doc/.TeX
+g03root=/usr/local/g03
+HOME=/home/xuwen
+SHLVL=2
+JDK_HOME=/usr/lib/jvm/java
+QT_SYSTEM_DIR=/usr/share/desktop-data
+OSTYPE=linux
+LESS_ADVANCED_PREPROCESSOR=no
+KMP_AFFINITY=disabled
+PBS_O_HOST=medusa.chem.tamu.edu
+XCURSOR_THEME=Industrial
+LS_OPTIONS=-N --color=none -T 0
+WINDOWMANAGER=/usr/X11R6/bin/gnome
+PBS_VNODENUM=0
+GTK_PATH=/usr/local/lib/gtk-2.0:/opt/gnome/lib/gtk-2.0:/usr/lib/gtk-2.0
+PGPLOT_DIR=/home/xuwen/pgplot/
+LOGNAME=xuwen
+MACHTYPE=ia64-suse-linux
+LESS=-M -I
+G_FILENAME_ENCODING=@locale,UTF-8,ISO-8859-15,CP1252
+GV_DIR=/usr/local/g09/gv
+CVS_RSH=ssh
+PBS_QUEUE=m_p8
+ACLOCAL_FLAGS=-I /opt/gnome/share/aclocal
+XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/etc/opt/kde3/share/:/opt/kde3/share/:/opt/gnome/share/
+MODULESHOME=/usr/share/modules
+KMP_STACKSIZE=20971520
+PBS_O_MAIL=/var/mail/xuwen
+LESSOPEN=lessopen.sh %s
+PKG_CONFIG_PATH=/usr/local/lib/pkgconfig:/usr/local/share/pkgconfig:/usr/lib/pkgconfig:/usr/share/pkgconfig:/opt/kde3/lib/pkgconfig:/opt/gnome/lib/pkgconfig:/opt/gnome/lib/pkgconfig:/opt/gnome/share/pkgconfig:/home/xuwen/lib/pkgconfig
+OMP_NUM_THREADS=1
+GAUSS_DPLACE=1
+INFOPATH=/usr/local/info:/usr/share/info:/usr/info:/opt/gnome/share/info
+PGI_TERM=trace,abort
+PBS_NP=4
+PBS_NUM_PPN=4
+AMBERHOME=/usr/local/AMBER/amber11/
+LESSCLOSE=lessclose.sh %s %s
+PBS_NODEFILE=/var/spool/torque/aux//47406.medusa.chem.tamu.edu
+G_BROKEN_FILENAMES=1
+AGUI_DIR=/usr/local/Ampac/agui
+PBS_O_PATH=.:/home/xuwen/wham/wham:/usr/local/Ampac-9.2/exec:/home/xuwen/bin:/usr/local/bin:/usr/bin:/usr/X11R6/bin:/bin:/usr/games:/opt/gnome/bin:/opt/kde3/bin:/usr/lib/mit/bin:/usr/lib/mit/sbin:/usr/lib/qt3/bin:/usr/pbs/default/bin:/opt/intel/fc/10.0.023/bin:/opt/intel/cc/10.0.023/bin:/opt/intel/fc/9.1.045/bin:/opt/intel/cc/9.1.049/bin:/usr/local/g09/g09/bsd:/usr/local/g09/g09/local:/usr/local/g09/g09/extras:/usr/local/g09/g09:/usr/local/Ampac:/usr/local/AMBER/amber11//exe:.:/usr/local/Ampac/exec
+COLORTERM=1
+JAVA_ROOT=/usr/lib/jvm/java
+GAUSS_LEXEDIR=/usr/local/g09_B01/g09/linda-exe
+module=() {  eval `/usr/bin/modulecmd bash $*`
+}
+mc=() {  . /usr/share/mc/bin/mc-wrapper.sh
+}
+_=/usr/bin/env
+-----------------------------
+Job end time: Fri Oct  5 12:01:59 CDT 2012
+-----------------------------
+Epilogue Args:
+Job ID: 47406.medusa.chem.tamu.edu
+User ID: xuwen
+Group ID: user
+Job Name: mcmc.job
+Session ID: 26025
+Resource List: mem=4gb,neednodes=1:ppn=4,nodes=1:ppn=4,walltime=32:00:00
+Resources Used: cput=03:20:51,mem=3183728kb,vmem=9650656kb,walltime=01:20:48
+Queue Name: m_p8
+Job Account: 
+Job exit code: 47406.medusa.chem.tamu.edu0
+

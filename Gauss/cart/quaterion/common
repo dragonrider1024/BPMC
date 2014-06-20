@@ -1,0 +1,4 @@
+	common /coordinate/ x,y,z,amass
+	common /atomsym/ atom
+	common /natom/ N,nc,nci
+	common /eng/ ene

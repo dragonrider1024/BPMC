@@ -1,0 +1,5 @@
+	common /atoms/ n,ch,multi
+	common /zmat/ atom,bl,bs,al,as,dl,ds,cl
+	common /value/ sym,v
+	common /ery/ene
+	common /position/pos
